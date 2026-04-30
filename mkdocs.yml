@@ -1,0 +1,13 @@
+site_name: AP World History Modern
+site_description: An intelligent textbook for AP World History Modern
+site_author: Dan McCreary
+docs_dir: docs
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - World History Notes: world-history-notes.md
+  - Course Description: course-description.md
+  - Learning Graph:
+      - Course Description Assessment: learning-graph/course-description-assessment.md
