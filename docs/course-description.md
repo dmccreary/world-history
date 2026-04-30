@@ -1,12 +1,12 @@
 ---
 title: Course Description for AP World History Modern
-description: A detailed course description for AP World History Modern including overview, topics covered and learning objectives in the format of the 2001 Bloom Taxonomy
+description: An interactive intelligent textbook for World History Modern (1200CD to today)
 quality_score: 94
 ---
 
 # AP World History: Modern
 
-**Title:** AP World History: Modern
+**Title:** World History: 1200CE to Present
 
 **Target Audience:** High school students (grades 10–12) seeking college-equivalent coursework; the course is aligned with introductory college-level modern world history.
 
@@ -14,7 +14,7 @@ quality_score: 94
 
 ## Course Overview
 
-AP World History: Modern is an introductory college-level survey of world history from approximately 1200 CE to the present. Rather than memorizing isolated facts, students cultivate the habits of mind of professional historians: analyzing primary and secondary sources, evaluating competing interpretations, contextualizing events within broader patterns of change, and constructing evidence-based arguments about the past.
+World History: Modern is an introductory college-level survey of world history from approximately 1200 CE to the present. Rather than memorizing isolated facts, students cultivate the habits of mind of professional historians: analyzing primary and secondary sources, evaluating competing interpretations, contextualizing events within broader patterns of change, and constructing evidence-based arguments about the past.
 
 The course is organized into nine thematic units that move chronologically from the interconnected civilizations of the medieval world through the emergence of global trade networks, the rise and fall of land-based and maritime empires, the revolutionary upheavals of the 18th and 19th centuries, the catastrophic conflicts of the 20th century, and the accelerating forces of globalization in the contemporary era. Six recurring themes — humans and the environment, cultural developments and interactions, governance, economic systems, social interactions and organization, and technology and innovation — thread through every unit, allowing students to trace long-run patterns across time and geography.
 
