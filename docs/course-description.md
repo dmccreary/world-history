@@ -20,6 +20,12 @@ The course is organized into nine thematic units that move chronologically from 
 
 College Board recognizes AP World History: Modern as equivalent to an introductory college course, and qualifying exam scores (typically 3–5) are accepted for college credit or advanced placement at thousands of universities. The course therefore serves a dual purpose: building genuine historical literacy and critical thinking while creating a measurable credential that strengthens college applications and can reduce time and cost in higher education.
 
+There are several cross-cutting themes in this course:
+
+1. Development of critical thinking skills
+2. Cultivation of systems thinking to understand world events holistically
+3. Healthy skepticism about historical claims, including the ability to detect bias and misinformation across sources
+
 ## Main Topics Covered
 
 ### Unit 1: The Global Tapestry (c. 1200–c. 1450) — 8–10% of exam
