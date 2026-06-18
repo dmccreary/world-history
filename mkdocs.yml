@@ -1,6 +1,12 @@
 site_name: World History - Modern
 site_description: An interactive intelligent textbook for World History - Modern from 1200CD to the present.
 site_author: Dan McCreary
+
+extra:
+  analytics:
+    provider: google
+    property: G-MQ9Y407LCZ
+
 docs_dir: docs
 theme:
   name: material
